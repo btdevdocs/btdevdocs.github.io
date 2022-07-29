@@ -17,7 +17,7 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 | Level | Seniority | [Citizen Developer](CitizenDeveloper.md) | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Junior | [CZ1](CitizenDeveloper.md#CZ1---citizen-developer-1)  | [D1](Developer.md#d1---developer-1) | | | |
+| 1 | Junior | [CZ1](CitizenDeveloper.md#CZ1---citizen-developer-1)  | [D1](Developer.md#d1---developer-1) | | |
 | 2 | Junior | | [D2](Developer.md#d2---developer-2) | | | |
 | 3 | Junior | | [D3](Developer.md#d3---developer-3) | | | |
 | 4 | Senior | | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | |
