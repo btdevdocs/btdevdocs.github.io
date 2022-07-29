@@ -1,10 +1,10 @@
-# Development Ladder Introduction
+# BT Development Ladder Introduction
 
 This framework allows software engineering management at Butler/Till to establish a measurable ladder-like framework for developer, lead, and manager staff development.
 
 ![Template Chart](charts/template.png)
 
-# Career Ladders
+# Developer Career Ladders
 
 The BT developer advancement framework contains 4 different ladders:
 
