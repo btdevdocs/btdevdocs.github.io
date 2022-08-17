@@ -34,7 +34,7 @@ Developer-in-training role performing limited-scale development activities or wo
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
+* [**Software Engineer**](SoftwareEngineer.md)
 * [**Data Engineer**](DataEngineer.md)
 * [**Tech Lead**](TechLead.md)
 * [**Engineering Manager**](EngineeringManager.md)
