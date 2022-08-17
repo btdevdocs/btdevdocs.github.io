@@ -2,9 +2,9 @@
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
-## Proficiency Tier
+## Engineering Proficiency Tier
 
-Each proficiency tier represents a skill and training level equal to qualatative factors outlined by clicking below. This is not meant to 
+Each proficiency tier represents a skill and training level equal to qualitative factors outlined by clicking below. This is not meant to be a requirements document outlining promotable requirements, its purpose is to guide individual and team development from one stage of a career to the next.
 
 | Level | Seniority | Position | Proficiency |
 | :---: | :---: | :---: | :---: |
@@ -13,10 +13,12 @@ Each proficiency tier represents a skill and training level equal to qualatative
 | 3 | Junior | [D3 - Developer 3](#d3---developer-3) | ⭐⭐ |
 | 4 | Senior | [D4 - Developer 4](#d4---developer-4) | ⭐⭐ |
 | 5 | Senior | [D5 - Developer 5](#d5---developer-5) | ⭐⭐⭐ |
-| 6 | Principal | [D6 - Developer 6](#d6---developer-6) | ⭐⭐⭐ |
+| 6 | Senior | [D6 - Developer 6](#d6---developer-6) | ⭐⭐⭐ |
 | 7 | Principal | [D7 - Developer 7](#d7---developer-7) | ⭐⭐⭐⭐ |
 
 ## Recommended Training
+
+At Butler/Till, our software development efforts are standardized across two programming languages; C# and Python. 
 
 ### Python Path
 
