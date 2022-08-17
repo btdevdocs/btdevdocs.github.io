@@ -27,7 +27,7 @@ Each proficiency tier represents a skill and training level equal to qualatative
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
 | [Unit Testing in Python](https://www.linkedin.com/learning/unit-testing-in-python?u=50239708) | ⭐⭐ |
 
-## DE1 - Developer 1
+## DE1 - Data Engineer 1
 Proficiency: ⭐
 
 ![Data Engineer 1](/charts/developer-1.png)
@@ -38,7 +38,7 @@ Proficiency: ⭐
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## DE2 - Developer 2
+## DE2 - Data Engineer 2
 Proficiency ⭐
 
 ![Data Engineer 2](/charts/developer-2.png)
@@ -49,7 +49,7 @@ Proficiency ⭐
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## DE3 - Developer 3
+## DE3 - Data Engineer 3
 Proficiency ⭐⭐
 
 ![Data Engineer 3](/charts/developer-3.png)
@@ -60,7 +60,7 @@ Proficiency ⭐⭐
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## DE4 - Developer 4
+## DE4 - Data Engineer 4
 Proficiency ⭐⭐
 
 ![Data Engineer 4](/charts/developer-4.png)
@@ -71,7 +71,7 @@ Proficiency ⭐⭐
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## DE5 - Developer 5
+## DE5 - Data Engineer 5
 Proficiency ⭐⭐⭐
 
 ![Data Engineer 5](/charts/developer-5.png)
@@ -82,7 +82,7 @@ Proficiency ⭐⭐⭐
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## DE6 - Developer 6
+## DE6 - Data Engineer 6
 Proficiency ⭐⭐⭐
 
 ![Data Engineer 6](/charts/developer-6.png)
@@ -93,7 +93,7 @@ Proficiency ⭐⭐⭐
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## DE7 - Developer 7
+## DE7 - Data Engineer 7
 Proficiency ⭐⭐⭐⭐
 
 ![Data Engineer 7](/charts/developer-7.png)
