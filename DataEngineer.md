@@ -4,7 +4,7 @@ Role also known as SQL developer, programmer, or integration engineer requires a
 
 ## Proficiency Tier
 
-Each proficiency tier represents a skill and training level equal to qualatative factors outlined by clicking below. This is not meant to 
+Each proficiency tier represents a skill and training level equal to qualitative factors outlined by clicking below. This is not meant to 
 
 | Level | Seniority | Position | Proficiency |
 | :---: | :---: | :---: | :---: |
