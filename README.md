@@ -88,6 +88,7 @@ Keep reading to better understand each level.
 
 * [**Citizen Developer**](CitizenDeveloper.md)
 * [**Developer**](Developer.md)
+* [**Data Engineer**](DataEngineer.md)
 * [**Tech Lead**](TechLead.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
