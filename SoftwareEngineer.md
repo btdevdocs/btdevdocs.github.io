@@ -113,7 +113,7 @@ Proficiency ⭐⭐⭐
 ## SE7 - Software Engineer 7
 Proficiency ⭐⭐⭐⭐
 
-!Software Engineer 7](/charts/developer-7.png)
+![Software Engineer 7](/charts/developer-7.png)
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
