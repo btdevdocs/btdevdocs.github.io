@@ -1,4 +1,4 @@
-# BT Development Ladder Introduction
+# BT Engineering Ladder Introduction
 
 This framework allows software engineering management at Butler/Till to establish a measurable ladder-like framework for developer, lead, and manager staff development.
 
@@ -9,21 +9,22 @@ This framework allows software engineering management at Butler/Till to establis
 The BT developer advancement framework contains 4 different ladders:
 
 * [**Citizen Developer**](CitizenDeveloper.md): non-developer role performing limited-scale development activities or working to elevate skills into a junior developer role
+* [**Data Engineer**](DataEngineer.md): role also known as database developer, SQL programmer, or integration engineer requires a deep level of technical expertise relating to the aquisition, modeling, and processing of structured and unstructured data
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
 * [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
 * [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Seniority | [Citizen Developer](CitizenDeveloper.md) | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Junior | [CZ1](CitizenDeveloper.md#CZ1---citizen-developer-1)  | [D1](Developer.md#d1---developer-1) | | |
-| 2 | Junior | | [D2](Developer.md#d2---developer-2) | | | |
-| 3 | Junior | | [D3](Developer.md#d3---developer-3) | | | |
-| 4 | Senior | | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | |
-| 5 | Senior | | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| Level | Seniority | [Citizen Developer](CitizenDeveloper.md) | [Data Engineer](DataEngineer.md) | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Junior | [CZ1](CitizenDeveloper.md#CZ1---citizen-developer-1)  | [DE1](DataEngineer.md#de1---data-engineer-1) | [D1](Developer.md#d1---developer-1) | | |
+| 2 | Junior | | [DE2](DataEngineer.md#de2---data-engineer-2) | [D2](Developer.md#d2---developer-2) | | | |
+| 3 | Junior | | [DE3](DataEngineer.md#de3---data-engineer-3) | [D3](Developer.md#d3---developer-3) | | | |
+| 4 | Senior | | [DE4](DataEngineer.md#de4---data-engineer-4) | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | |
+| 5 | Senior | | [DE5](DataEngineer.md#de5---data-engineer-5) | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Senior | | [DE6](DataEngineer.md#de6---data-engineer-6) | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Senior | | [DE7](DataEngineer.md#de7---data-engineer-7) | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
