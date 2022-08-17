@@ -123,6 +123,7 @@ Proficiency ⭐⭐⭐⭐
 
 * [**Introduction**](README.md)
 * [**Citizen Developer**](CitizenDeveloper.md)
+* [**Data Engineer**](DataEngineer.md)
 * [**Tech Lead**](TechLead.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
