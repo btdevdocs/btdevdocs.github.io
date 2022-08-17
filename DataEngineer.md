@@ -1,10 +1,10 @@
 # Data Engineer
 
-Role also known as SQL developer, programmer, or integration engineer requires a deep level of technical expertise relating to the aquisition, modeling, and processing of structured and unstructured data.
+Role also known as database developer, SQL programmer, or integration engineer requires a deep level of technical expertise relating to the aquisition, modeling, and processing of structured and unstructured data.
 
-## Proficiency Tier
+## Engineering Proficiency Tier
 
-Each proficiency tier represents a skill and training level equal to qualitative factors outlined by clicking below. This is not meant to 
+Each proficiency tier represents a skill and training level equal to qualitative factors outlined by clicking below. This is not meant to be a requirements document outlining promotable requirements, its purpose is to guide individual and team development from one stage of a career to the next.
 
 | Level | Seniority | Position | Proficiency |
 | :---: | :---: | :---: | :---: |
