@@ -1,6 +1,6 @@
 # Introduction
 
-This framework allows software engineering management at Butler/Till to establish a measurable ladder-like framework for developer, lead, and manager staff development.
+This framework allows engineering management at Butler/Till to establish a measurable ladder-like framework for engineer, lead, and manager staff development.
 
 ![Template Chart](charts/template.png)
 
