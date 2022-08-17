@@ -28,6 +28,7 @@ At Butler/Till, our software development efforts are standardized across two pro
 | [Python Code Challenges](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-code-challenges%3Ftrk%3Dshare_ent_url%26shareId%3DSd29h6FrT5G1%252Be2j0R9sMg%253D%253D) | ⭐|
 | [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
 | [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐|
+| [Advanced Python: Working with Databases](https://www.linkedin.com/learning/advanced-python-working-with-databases?u=50239708) | ⭐⭐ |
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
 | [Unit Testing in Python](https://www.linkedin.com/learning/unit-testing-in-python?u=50239708) | ⭐⭐ |
 | [CodinGame Exercises](https://www.codingame.com/start)| ⭐ -> ⭐⭐⭐⭐|
