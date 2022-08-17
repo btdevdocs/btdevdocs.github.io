@@ -6,13 +6,13 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Level | Seniority | Position | Proficiency |
 | :---: | :---: | :---: | :---: |
-| 1 | Junior | [D1 - Developer 1](#d1---developer-1) | :star: |
-| 2 | Junior | [D2 - Developer 2](#d2---developer-2) | :star: |
-| 3 | Junior | [D3 - Developer 3](#d3---developer-3) | :star::star: |
-| 4 | Senior | [D4 - Developer 4](#d4---developer-4) | :star::star: |
-| 5 | Senior | [D5 - Developer 5](#d5---developer-5) | :star::star::star: |
-| 6 | Senior | [D6 - Developer 6](#d6---developer-6) | :star::star::star: |
-| 7 | Senior | [D7 - Developer 7](#d7---developer-7) | :star::star::star::star: |
+| 1 | Junior | [D1 - Developer 1](#d1---developer-1) | ⭐ |
+| 2 | Junior | [D2 - Developer 2](#d2---developer-2) | ⭐|
+| 3 | Junior | [D3 - Developer 3](#d3---developer-3) | ⭐⭐ |
+| 4 | Senior | [D4 - Developer 4](#d4---developer-4) | ⭐⭐ |
+| 5 | Senior | [D5 - Developer 5](#d5---developer-5) | ⭐⭐⭐ |
+| 6 | Senior | [D6 - Developer 6](#d6---developer-6) | ⭐⭐⭐ |
+| 7 | Senior | [D7 - Developer 7](#d7---developer-7) | ⭐⭐⭐⭐ |
 
 ## Recommended Training
 
@@ -20,26 +20,26 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Course Title | Proficiency Level |
 | :---: | :---: |
-| [Python Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-essential-training-14898805%3Ftrk%3Dshare_ent_url%26shareId%3D%252F2C%252Bz%252FPMQDmCivruXDlrtg%253D%253D) | :star:|
-| [Python Code Challenges](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-code-challenges%3Ftrk%3Dshare_ent_url%26shareId%3DSd29h6FrT5G1%252Be2j0R9sMg%253D%253D) | :star:|
-| [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| :star: |
-| [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |:star:|
-| [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | :star::star: |
+| [Python Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-essential-training-14898805%3Ftrk%3Dshare_ent_url%26shareId%3D%252F2C%252Bz%252FPMQDmCivruXDlrtg%253D%253D) |⭐|
+| [Python Code Challenges](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-code-challenges%3Ftrk%3Dshare_ent_url%26shareId%3DSd29h6FrT5G1%252Be2j0R9sMg%253D%253D) | ⭐|
+| [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
+| [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐|
+| [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
 
 
 ### .NET Path
 
 | Course Title | Proficiency Level |
 | :---: | :---: |
-| [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| :star: |
-| [Learning Entity Framework Core](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-entity-framework-core%3Ftrk%3Dshare_ent_url%26shareId%3DkHAy9mAXQkOqYLDUhfoiVQ%253D%253D)| :star:|
-| [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |:star:|
-| [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | :star::star: |
-| [Building Web APIs with ASP.NET Core in .NET 6](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuilding-web-apis-with-asp-dot-net-core-in-dot-net-6%3Ftrk%3Dshare_ent_url%26shareId%3DCOCQaoB4TJG3XXHBnmrEug%253D%253D) | :star::star: |
+| [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
+| [Learning Entity Framework Core](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-entity-framework-core%3Ftrk%3Dshare_ent_url%26shareId%3DkHAy9mAXQkOqYLDUhfoiVQ%253D%253D)| ⭐ |
+| [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐ |
+| [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
+| [Building Web APIs with ASP.NET Core in .NET 6](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuilding-web-apis-with-asp-dot-net-core-in-dot-net-6%3Ftrk%3Dshare_ent_url%26shareId%3DCOCQaoB4TJG3XXHBnmrEug%253D%253D) | ⭐⭐|
 
 
 ## D1 - Developer 1
-Proficiency: :star:
+Proficiency: ⭐
 
 ![Developer 1](/charts/developer-1.png)
 
@@ -50,7 +50,7 @@ Proficiency: :star:
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
 ## D2 - Developer 2
-Proficiency :star:
+Proficiency ⭐
 
 ![Developer 2](/charts/developer-2.png)
 
@@ -61,7 +61,7 @@ Proficiency :star:
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
 ## D3 - Developer 3
-Proficiency :star::star:
+Proficiency ⭐⭐
 
 ![Developer 3](/charts/developer-3.png)
 
@@ -72,7 +72,7 @@ Proficiency :star::star:
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
 ## D4 - Developer 4
-Proficiency :star::star:
+Proficiency ⭐⭐
 
 ![Developer 4](/charts/developer-4.png)
 
@@ -83,7 +83,7 @@ Proficiency :star::star:
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
 ## D5 - Developer 5
-Proficiency :star::star::star:
+Proficiency ⭐⭐⭐
 
 ![Developer 5](/charts/developer-5.png)
 
@@ -94,7 +94,7 @@ Proficiency :star::star::star:
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
 ## D6 - Developer 6
-Proficiency :star::star::star:
+Proficiency ⭐⭐⭐
 
 ![Developer 6](/charts/developer-6.png)
 
@@ -105,7 +105,7 @@ Proficiency :star::star::star:
 * **Company**: makes an impact on the whole tech organization
 
 ## D7 - Developer 7
-Proficiency :star::star::star::star:
+Proficiency ⭐⭐⭐⭐
 
 ![Developer 7](/charts/developer-7.png)
 
