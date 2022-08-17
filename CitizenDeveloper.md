@@ -7,18 +7,18 @@ Developer-in-training role performing limited-scale development activities or wo
 
 | Course Title | Level |
 | :---: | :---: |
-| [Python for Non-Developers](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-for-non-programmers%3Ftrk%3Dshare_ent_url%26shareId%3DvU2ehLh4TYm88FEaTLTJRA%253D%253D) | :star: |
-| [Python Code Challenges](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-code-challenges%3Ftrk%3Dshare_ent_url%26shareId%3DSd29h6FrT5G1%252Be2j0R9sMg%253D%253D) | :star:|
-| [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| :star: |
-| [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |:star:|
-| [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | :star::star: |
+| [Python for Non-Developers](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-for-non-programmers%3Ftrk%3Dshare_ent_url%26shareId%3DvU2ehLh4TYm88FEaTLTJRA%253D%253D) |⭐|
+| [Python Code Challenges](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-code-challenges%3Ftrk%3Dshare_ent_url%26shareId%3DSd29h6FrT5G1%252Be2j0R9sMg%253D%253D) | ⭐|
+| [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
+| [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐|
+| [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
 
 
 ## Proficiency Tier
 
-| Level | Seniority | Position |
-| :---: | :---: | :---: |
-| 1 | Junior | [CZ - Citizen Developer 1](#CZ1---citizen-developer-1) |
+| Level | Seniority | Position | Proficiency |
+| :---: | :---: | :---: | :---: |
+| 1 | Junior | [CZ - Citizen Developer 1](#CZ1---citizen-developer-1) | ⭐ |
 
 
 ## CZ1 - Citizen Developer 1
