@@ -30,6 +30,7 @@ At Butler/Till, our software development efforts are standardized across two pro
 | [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐|
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
 | [Unit Testing in Python](https://www.linkedin.com/learning/unit-testing-in-python?u=50239708) | ⭐⭐ |
+| [CodinGame Exercises](https://www.codingame.com/start)| ⭐ -> ⭐⭐⭐⭐|
 
 
 ### .NET Path
@@ -42,6 +43,7 @@ At Butler/Till, our software development efforts are standardized across two pro
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
 | [Building Web APIs with ASP.NET Core in .NET 6](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuilding-web-apis-with-asp-dot-net-core-in-dot-net-6%3Ftrk%3Dshare_ent_url%26shareId%3DCOCQaoB4TJG3XXHBnmrEug%253D%253D) | ⭐⭐|
 | [C# Test Driven Development](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015?u=50239708)| ⭐⭐|
+| [CodeinGame Exercises](https://www.codingame.com/start)| ⭐ -> ⭐⭐⭐⭐|
 
 
 ## SE1 - Software Engineer 1
