@@ -1,6 +1,6 @@
-# Developer
+# Citizen Developer
 
-Non-developer role performing limited-scale development activities or working to elevate skills into a junior developer role
+Developer-in-training role performing limited-scale development activities or working to elevate skills into a junior developer role
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
