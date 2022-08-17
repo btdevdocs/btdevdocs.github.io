@@ -6,6 +6,7 @@ Role also known as database developer, SQL programmer, or integration engineer r
 
 Each proficiency tier represents a skill and training level equal to qualitative factors outlined by clicking below. This is not meant to be a requirements document outlining promotable requirements, its purpose is to guide individual and team development from one stage of a career to the next.
 
+
 | Level | Seniority | Position | Proficiency |
 | :---: | :---: | :---: | :---: |
 | 1 | Junior | [DE1 - Data Engineer 1](#de1---data-engineer-1) | ⭐ |
@@ -18,16 +19,19 @@ Each proficiency tier represents a skill and training level equal to qualitative
 
 ## Recommended Training
 
-| Course Title | Proficiency Level |
+| Course Title | Desired Proficiency Level |
 | :---: | :---: |
 | [Python Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-essential-training-14898805%3Ftrk%3Dshare_ent_url%26shareId%3D%252F2C%252Bz%252FPMQDmCivruXDlrtg%253D%253D) |⭐|
 | [Data Engineering Foundations](https://www.linkedin.com/learning/data-engineering-foundations?u=50239708) | ⭐|
 | [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
 | [Learning Snowflake DB](https://www.linkedin.com/learning/learning-snowflakedb?u=50239708) | ⭐ |
+| [Data Modeling: an Introduction](https://www.youtube.com/watch?v=tR_rOJPiEXc) | ⭐⭐ |
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
+| [Architecting Big Data Applications: Real-Time Application Engineering](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Farchitecting-big-data-applications-real-time-application-engineering%3Ftrk%3Dshare_ent_url%26shareId%3DCCcxZt0kT0S9LLdn07G8xA%253D%253D) | ⭐⭐⭐ |
 
+## Engineering Role Abstracts
 
-## DE1 - Data Engineer 1
+### DE1 - Data Engineer 1
 Proficiency: ⭐
 
 ![Data Engineer 1](/charts/developer-1.png)
@@ -38,7 +42,7 @@ Proficiency: ⭐
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## DE2 - Data Engineer 2
+### DE2 - Data Engineer 2
 Proficiency ⭐
 
 ![Data Engineer 2](/charts/developer-2.png)
@@ -49,7 +53,7 @@ Proficiency ⭐
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## DE3 - Data Engineer 3
+### DE3 - Data Engineer 3
 Proficiency ⭐⭐
 
 ![Data Engineer 3](/charts/developer-3.png)
@@ -60,7 +64,7 @@ Proficiency ⭐⭐
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## DE4 - Data Engineer 4
+### DE4 - Data Engineer 4
 Proficiency ⭐⭐
 
 ![Data Engineer 4](/charts/developer-4.png)
@@ -71,7 +75,7 @@ Proficiency ⭐⭐
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## DE5 - Data Engineer 5
+### DE5 - Data Engineer 5
 Proficiency ⭐⭐⭐
 
 ![Data Engineer 5](/charts/developer-5.png)
@@ -82,7 +86,7 @@ Proficiency ⭐⭐⭐
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## DE6 - Data Engineer 6
+### DE6 - Data Engineer 6
 Proficiency ⭐⭐⭐
 
 ![Data Engineer 6](/charts/developer-6.png)
@@ -93,7 +97,7 @@ Proficiency ⭐⭐⭐
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## DE7 - Data Engineer 7
+### DE7 - Data Engineer 7
 Proficiency ⭐⭐⭐⭐
 
 ![Data Engineer 7](/charts/developer-7.png)
