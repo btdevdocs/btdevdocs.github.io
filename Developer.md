@@ -4,6 +4,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 ## Proficiency Tier
 
+Each proficiency tier represents a skill and training level equal to qualatative factors outlined by clicking below. This is not meant to 
+
 | Level | Seniority | Position | Proficiency |
 | :---: | :---: | :---: | :---: |
 | 1 | Junior | [D1 - Developer 1](#d1---developer-1) | ⭐ |
@@ -25,6 +27,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
 | [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐|
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
+| [Unit Testing in Python](https://www.linkedin.com/learning/unit-testing-in-python?u=50239708) | ⭐⭐ |
 
 
 ### .NET Path
@@ -36,6 +39,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐ |
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
 | [Building Web APIs with ASP.NET Core in .NET 6](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuilding-web-apis-with-asp-dot-net-core-in-dot-net-6%3Ftrk%3Dshare_ent_url%26shareId%3DCOCQaoB4TJG3XXHBnmrEug%253D%253D) | ⭐⭐|
+| [C# Test Driven Development](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015?u=50239708)| ⭐⭐|
 
 
 ## D1 - Developer 1
