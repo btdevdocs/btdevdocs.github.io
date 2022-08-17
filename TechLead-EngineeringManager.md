@@ -34,6 +34,7 @@ Having said that, although it is important for an Engineering Manager to be able
 
 * [**Introduction**](README.md)
 * [**Developer**](Developer.md)
+* [**Data Engineer**](DataEngineer.md)
 * [**Tech Lead**](TechLead.md)
 * [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
