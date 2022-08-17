@@ -1,4 +1,4 @@
-# BT Engineering Ladder Introduction
+# Introduction
 
 This framework allows software engineering management at Butler/Till to establish a measurable ladder-like framework for developer, lead, and manager staff development.
 
