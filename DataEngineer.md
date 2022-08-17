@@ -21,11 +21,11 @@ Each proficiency tier represents a skill and training level equal to qualitative
 | Course Title | Proficiency Level |
 | :---: | :---: |
 | [Python Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-essential-training-14898805%3Ftrk%3Dshare_ent_url%26shareId%3D%252F2C%252Bz%252FPMQDmCivruXDlrtg%253D%253D) |⭐|
-| [Python Code Challenges](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-code-challenges%3Ftrk%3Dshare_ent_url%26shareId%3DSd29h6FrT5G1%252Be2j0R9sMg%253D%253D) | ⭐|
+| [Data Engineering Foundations](https://www.linkedin.com/learning/data-engineering-foundations?u=50239708) | ⭐|
 | [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
-| [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐|
+| [Learning Snowflake DB](https://www.linkedin.com/learning/learning-snowflakedb?u=50239708) | ⭐ |
 | [Learning Git and Github](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-git-and-github-14213624%3Ftrk%3Dshare_ent_url%26shareId%3D26ySFnlsT2SfvFxnubtiGA%253D%253D) | ⭐⭐ |
-| [Unit Testing in Python](https://www.linkedin.com/learning/unit-testing-in-python?u=50239708) | ⭐⭐ |
+
 
 ## DE1 - Data Engineer 1
 Proficiency: ⭐
@@ -108,6 +108,7 @@ Proficiency ⭐⭐⭐⭐
 
 * [**Introduction**](README.md)
 * [**Citizen Developer**](CitizenDeveloper.md)
+* [**Developer**](Developer.md)
 * [**Tech Lead**](TechLead.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
