@@ -1,6 +1,6 @@
 # Citizen Developer
 
-Developer-in-training role performing limited-scale development activities or working to elevate skills into a junior developer role
+Developer-in-training role performing limited-scale development activities or working to elevate skills into a developer role
 
 
 ## Recommended Training
