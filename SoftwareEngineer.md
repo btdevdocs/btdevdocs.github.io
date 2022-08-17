@@ -38,6 +38,7 @@ At Butler/Till, our software development efforts are standardized across two pro
 
 | Course Title | Proficiency Level |
 | :---: | :---: |
+| [Learning C#](https://www.linkedin.com/learning/learning-c-sharp-8581491?u=50239708) | ⭐ |
 | [SQL Essential Training](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fsql-essential-training-3%3Ftrk%3Dshare_ent_url%26shareId%3Dwk8cnbrzQN2l8cgIKdGd1w%253D%253D)| ⭐ |
 | [Learning Entity Framework Core](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-entity-framework-core%3Ftrk%3Dshare_ent_url%26shareId%3DkHAy9mAXQkOqYLDUhfoiVQ%253D%253D)| ⭐ |
 | [Programming Foundations: Secure Coding](https://www.linkedin.com/learning-login/share?account=50239708&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fprogramming-foundations-secure-coding%3Ftrk%3Dshare_ent_url%26shareId%3DP3aVD9eKTJSqoasBx739uA%253D%253D) |⭐ |
