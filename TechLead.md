@@ -54,6 +54,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 
 * [**Introduction**](README.md)
 * [**Citizen Developer**](CitizenDeveloper.md)
+* [**Data Engineer**](DataEngineer.md)
 * [**Developer**](Developer.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
