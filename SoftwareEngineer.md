@@ -1,6 +1,6 @@
 # Developer
 
-Role also known as programmer or software engineer, requires a deep level of technical expertise.
+Role also known as programmer or software developer, requires a deep level of technical expertise.
 
 ## Engineering Proficiency Tier
 
@@ -8,13 +8,13 @@ Each proficiency tier represents a skill and training level equal to qualitative
 
 | Level | Seniority | Position | Proficiency |
 | :---: | :---: | :---: | :---: |
-| 1 | Junior | [D1 - Developer 1](#d1---developer-1) | ⭐ |
-| 2 | Junior | [D2 - Developer 2](#d2---developer-2) | ⭐|
-| 3 | Junior | [D3 - Developer 3](#d3---developer-3) | ⭐⭐ |
-| 4 | Senior | [D4 - Developer 4](#d4---developer-4) | ⭐⭐ |
-| 5 | Senior | [D5 - Developer 5](#d5---developer-5) | ⭐⭐⭐ |
-| 6 | Senior | [D6 - Developer 6](#d6---developer-6) | ⭐⭐⭐ |
-| 7 | Principal | [D7 - Developer 7](#d7---developer-7) | ⭐⭐⭐⭐ |
+| 1 | Junior | [SE1 - Software Engineer 1](#se1---software-engineer-1) | ⭐ |
+| 2 | Junior | [SE2 - Software Engineer 2](#se2---software-engineer-2) | ⭐ |
+| 3 | Junior | [SE3 - Software Engineer 3](#se3---software-engineer-3) | ⭐⭐ |
+| 4 | Senior | [SE4 - Software Engineer 4](#se4---software-engineer-4) | ⭐⭐ |
+| 5 | Senior | [SE5 - Software Engineer 4](#se5---software-engineer-5)  | ⭐⭐⭐ |
+| 6 | Senior | [SE6 - Software Engineer 4](#se6---software-engineer-6) | ⭐⭐⭐ |
+| 7 | Senior | [SE7 - Software Engineer 4](#se7---software-engineer-7)  | ⭐⭐⭐⭐ |
 
 ## Recommended Training
 
@@ -44,10 +44,10 @@ At Butler/Till, our software development efforts are standardized across two pro
 | [C# Test Driven Development](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015?u=50239708)| ⭐⭐|
 
 
-## D1 - Developer 1
+## SE1 - Software Engineer 1
 Proficiency: ⭐
 
-![Developer 1](/charts/developer-1.png)
+![Software Engineer 1](/charts/developer-1.png)
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
 * **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
@@ -55,10 +55,10 @@ Proficiency: ⭐
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D2 - Developer 2
+## SE2 - Software Engineer 2
 Proficiency ⭐
 
-![Developer 2](/charts/developer-2.png)
+![Software Engineer 2](/charts/developer-2.png)
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -66,10 +66,10 @@ Proficiency ⭐
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D3 - Developer 3
+## SE3 - Software Engineer 3
 Proficiency ⭐⭐
 
-![Developer 3](/charts/developer-3.png)
+![Software Engineer 3](/charts/developer-3.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -77,10 +77,10 @@ Proficiency ⭐⭐
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - Developer 4
+## SE4 - Software Engineer 4
 Proficiency ⭐⭐
 
-![Developer 4](/charts/developer-4.png)
+![Software Engineer 4](/charts/developer-4.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -88,10 +88,10 @@ Proficiency ⭐⭐
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - Developer 5
+## SE5 - Software Engineer 5
 Proficiency ⭐⭐⭐
 
-![Developer 5](/charts/developer-5.png)
+![Software Engineer 5](/charts/developer-5.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -99,10 +99,10 @@ Proficiency ⭐⭐⭐
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - Developer 6
+## SE6 - Software Engineer 6
 Proficiency ⭐⭐⭐
 
-![Developer 6](/charts/developer-6.png)
+![Software Engineer 6](/charts/developer-6.png)
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -110,10 +110,10 @@ Proficiency ⭐⭐⭐
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## D7 - Developer 7
+## SE7 - Software Engineer 7
 Proficiency ⭐⭐⭐⭐
 
-![Developer 7](/charts/developer-7.png)
+!Software Engineer 7](/charts/developer-7.png)
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
