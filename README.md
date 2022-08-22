@@ -17,11 +17,11 @@ Before we dive further, it is important to outline the basics of how tech teams 
 
 Whether operating as an individual contributor, leader, or manager, our four key values define the how we achieve excellence in our work at Butler/Till:
 
-* __Values team success over individual success:__ We are a team and not a collection of unaffiliated individuals. You may be part of several teams: your squad, your chapter, your guild(s), your tribe. Contributing to the success of each of these groups is more beneficial to the company, the product, and our customers than chasing your own success at the cost of your teams.
-* __Continuously improves (self and team):__ Butler/Till believes in never settling for the status quo. We are always focused on learning and growing.
+* Values team success over individual success: We are a team and not a collection of unaffiliated individuals. You may be part of several teams: your squad, your chapter, your guild(s), your tribe. Contributing to the success of each of these groups is more beneficial to the company, the product, and our customers than chasing your own success at the cost of your teams.
+* Continuously improves (self and team): Butler/Till believes in never settling for the status quo. We are always focused on learning and growing.
 Holds themselves and others accountable: As a company we value transparency and autonomy. These values must be coupled with accountability if we are to succeed. Taking responsibility for your own actions and the actions of the team and holding others to this standard is critical for us to be able to trust and work with each other.
-* __Thinks about business impact:__ Butler/Till is a business. If we wish to keep working within this culture that we’ve built, we need to make sure that we are aligned with that business. Understanding how the choices you make affect the company is important for your growth as a professional.
-* __Mastery:__ While the other characteristics talk about expectations and behaviors that are independent of your domain or role, mastery is specifically about becoming a better engineer, agile coach, technical product owner, QE, QA or TA.
+* Thinks about business impact: Butler/Till is a business. If we wish to keep working within this culture that we’ve built, we need to make sure that we are aligned with that business. Understanding how the choices you make affect the company is important for your growth as a professional.
+* Mastery: While the other characteristics talk about expectations and behaviors that are independent of your domain or role, mastery is specifically about becoming a better engineer, agile coach, technical product owner, QE, QA or TA.
 
 # Developer Role Ladders
 
