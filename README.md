@@ -78,11 +78,11 @@ Keep reading to better understand each level.
 
 ### System: *A collection of tools, purpose built with standard operating procedures and performance metrics*
 
-1. **Enhances**: At this step, you successfully push new features and bug fixes to improve and extend a system
-2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+1. **Enhances**: At this step, you successfully push new features and bug fixes to improve and extend a system. You understand version control and are incrementally improving specific components.
+2. **Designs**: At this step, you design and implement medium to large size features while reducing the system's tech debt. As you develop larger features, you are aware of refactoring improvements which can be made to improve overall performance of the product.
+3. **Owns**: You own the production operation and monitoring of the system and is aware of its SLAs. If there is a hiccup, you are the first to know.
+4. **Evolves**: At this step you are actively evolving the architecture to support future requirements and defines/refine its SLAs. Your scope is to strategically assess and change the system as a whole.
+5. **Leads**: You lead the technical excellence of the system and creates plans to mitigate outages. 
 
 ### People: *How we support each other to be successful*
 
