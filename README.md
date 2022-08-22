@@ -1,11 +1,11 @@
 # Introduction
 
-This framework allows engineering management at Butler/Till to establish a measurable ladder-like framework for engineer, lead, and manager staff development.
 
+This framework allows engineering management at Butler/Till to establish a measurable ladder-like framework for engineer, lead, and manager staff development.
 
 ## Tech Organization Values
 
-Whether operating as an individual contributor, leader, or manager, our four key values define the how we achieve excellence in our work at Butler/Till:
+Whether operating as an individual contributor or leader, our four key values define the how we achieve excellence in our work at Butler/Till:
 
 * **Values team success over individual success:** We are a team and not a collection of unaffiliated individuals. You may be part of several teams: your squad, your chapter, your guild(s), your tribe. Contributing to the success of each of these groups is more beneficial to the company, the product, and our customers than chasing your own success at the cost of your teams.
 * **Continuously improves (self and team):** Butler/Till believes in never settling for the status quo. We are always focused on learning and growing.
@@ -26,9 +26,6 @@ Before we dive further, it is important to outline the basics of how tech teams 
   <li>Technology / Company (the highest levels of the organization) – The developers at this level are resources for the entire company based on their technical and
     leadership skills and are expected to spend a significant amount of their time working across the organization.</li>
 </ol>
-
-
-
 
 # Developer Role Ladders
 
