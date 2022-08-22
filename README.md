@@ -99,7 +99,7 @@ Keep reading to better understand each level.
 4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 5. **Manages**: manages the team members' career, expectations, performance and level of happiness
 
-### Process: *How we operatate; the oprganic process of refining how we go about our mission*
+### Process: *How we operate; the organic process of refining how we go about our mission*
 
 1. **Follows**: follows the team processes, delivering a consistent flow of features to production
 2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
