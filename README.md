@@ -13,6 +13,7 @@ Before we dive further, it is important to outline the basics of how tech teams 
 <li>Technology / Company (the highest levels of the organization) – The developers at this level are resources for the entire company based on their technical and leadership skills and are expected to spend a significant amount of their time working across the organization.
 </ol>
 
+
 ## Tech Organization Values
 
 Whether operating as an individual contributor, leader, or manager, our four key values define the how we achieve excellence in our work at Butler/Till:
