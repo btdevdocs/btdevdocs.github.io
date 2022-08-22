@@ -43,9 +43,9 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 | Level | Seniority | [Citizen Developer](CitizenDeveloper.md) | [Data Engineer](DataEngineer.md) | [Software Engineer](SoftwareEngineer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Junior | [CZ1](CitizenDeveloper.md#CZ1---citizen-developer-1)  | [DE1](DataEngineer.md#de1---data-engineer-1) | [SE1](SoftwareEngineer.md#se1---software-engineer-1) | | ||
-| 2 | Junior | | [DE2](DataEngineer.md#de2---data-engineer-2) | [SE2](SoftwareEngineer.md#se2---software-engineer-2)| | | |
-| 3 | Junior | | [DE3](DataEngineer.md#de3---data-engineer-3) | [SE3](SoftwareEngineer.md#se3---software-engineer-3) | | | |
+| 1 | Junior | [CZ1](CitizenDeveloper.md#CZ1---citizen-developer-1)  | [DE1](DataEngineer.md#de1---data-engineer-1) | [SE1](SoftwareEngineer.md#se1---software-engineer-1) | |||
+| 2 | Junior | | [DE2](DataEngineer.md#de2---data-engineer-2) | [SE2](SoftwareEngineer.md#se2---software-engineer-2)| | |
+| 3 | Junior | | [DE3](DataEngineer.md#de3---data-engineer-3) | [SE3](SoftwareEngineer.md#se3---software-engineer-3) | | |
 | 4 | Senior | | [DE4](DataEngineer.md#de4---data-engineer-4) | [SE4](SoftwareEngineer.md#se4---software-engineer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | |
 | 5 | Senior | | [DE5](DataEngineer.md#de5---data-engineer-5) | [SE5](SoftwareEngineer.md#se5---software-engineer-5)| [TL5](TechLead.md#tl5---tech-lead-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
 | 6 | Senior | | [DE6](DataEngineer.md#de6---data-engineer-6) | [SE6](SoftwareEngineer.md#se6---software-engineer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
