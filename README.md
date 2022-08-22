@@ -54,6 +54,10 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 (click on position name for more details)
 
+# Example Role Ladder
+
+![](/charts/template.png)
+
 # Axes
 
 The chart shown above has the following 5 axes:
