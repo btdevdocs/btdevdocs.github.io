@@ -18,11 +18,9 @@ Holds themselves and others accountable: As a company we value transparency and 
 Before we dive further, it is important to outline the basics of how tech teams are structured at Butler/Till, and define the general scope of each:
 
 <ol>
-  <li>Individual – at this level, you are new to working and are figuring out how to be productive and contributing member of the company.</li>
-  <li>Squad / Chapter (Your primary team such as Software Engineering, Analytics, Data Enablement, etc.) – you are now a contributing member of a team and are a resource
-    for the people you work with every day.</li>
-  <li>Tribe / Guild (these are the larger teams organizationally or functionality that people are part of - for example the full chain of data delivery from aquisition to
-    reporting) – now you are a resource beyond your immediate team. Either because you have depth in a technology (and help others or other teams around that technology);
+  <li> Individual: At this level, you are new to working and are figuring out how to be productive and contributing member of the company.</li>
+  <li> Squad / Chapter: Your primary team such as Software Engineering, Analytics, or Data Enablement. You are now a contributing member of a team and are a resource for the people you work with every day.</li>
+  <li> Tribe / Guild: These are the larger teams organizationally or functionality that people are part of - for example the full chain of data delivery from aquisition to reporting. You are now a resource beyond your immediate team. Either because you have depth in a technology (and help others or other teams around that technology);
     because you are skilled at solving difficult problems that span teams; or because you can be counted on to lead other developers in your tribe to solve large cross
     squad problems.</li>
   <li>Technology / Company (the highest levels of the organization) – The developers at this level are resources for the entire company based on their technical and
