@@ -72,7 +72,7 @@ Keep reading to better understand each level.
 
 # Levels
 
-## Technology - Application of tools or technology to solve business problems
+### Technology: *Application of tools or technology to solve business challenges*
 
 1. **Adopts**: At this step, you are actively learning and adopting the technology and tools defined by the team. This is the place where you are learning how best to apply internal tools and processes.
 2. **Specializes**: At this step, you are the go-to person for one or more technologies and actively taking initiative to learn new ones. This can take many forms, but best described as effort to be the in-house subject matter expert for a particular technology.
@@ -80,7 +80,7 @@ Keep reading to better understand each level.
 4. **Masters**: has very deep knowledge about the whole technology stack of the system
 5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 
-## System - A collection of tools, purpose built with standard operating procedures and performance metrics
+### System: *A collection of tools, purpose built with standard operating procedures and performance metrics*
 
 1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -88,7 +88,7 @@ Keep reading to better understand each level.
 4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 
-## People - How we support each other in success
+### People: *How we support each other to be successful*
 
 1. **Learns**: quickly learns from others and consistently steps up when it is required
 2. **Supports**: proactively supports other team members and helps them to be successful
@@ -96,7 +96,7 @@ Keep reading to better understand each level.
 4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 5. **Manages**: manages the team members' career, expectations, performance and level of happiness
 
-## Process - How we operatate; the oprganic process of refining how we go about our mission
+### Process: *How we operatate; the oprganic process of refining how we go about our mission*
 
 1. **Follows**: follows the team processes, delivering a consistent flow of features to production
 2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
@@ -104,7 +104,7 @@ Keep reading to better understand each level.
 4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 
-## Influence - Your scope of impact within the business and beyond
+### Influence: *Your scope of impact within the business and beyond*
 
 <ol>
 <li>Subsystem. At this step, you are focused primarily on being a useful contributor, gaining experience and learning how to be effective on their team and assigned systems. It is not expected that a member of technology would remain at this step during their entire time at butler/Till. At this step, your focus should be on growing so that you can support your team. This is the only step where there is an expectation that all members of technology should move toward the next step.</li>
