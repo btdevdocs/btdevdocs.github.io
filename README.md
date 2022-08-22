@@ -2,9 +2,28 @@
 
 This framework allows engineering management at Butler/Till to establish a measurable ladder-like framework for engineer, lead, and manager staff development.
 
-![Template Chart](charts/template.png)
+## Tech Organizational Structure
 
-# Developer Career Ladders
+Before we dive further, it is important to outline the basics of how tech teams are structured at Butler/Till, and define the general scope of each:
+
+<ol>
+<li>Individual – at this level, you are new to working and are figuring out how to be productive and contributing member of the company.
+<li>Squad / Chapter (Your primary team such as Software Engineering, Analytics, Data Enablement, etc.) – you are now a contributing member of a team and are a resource for the people you work with every day.
+<li>Tribe / Guild (these are the larger teams organizationally or functionality that people are part of - for example the full chain of data delivery from aquisition to reporting) – now you are a resource beyond your immediate team. Either because you have depth in a technology (and help others or other teams around that technology); because you are skilled at solving difficult problems that span teams; or because you can be counted on to lead other developers in your tribe to solve large cross-squad problems.
+<li>Technology / Company (the highest levels of the organization) – The developers at this level are resources for the entire company based on their technical and leadership skills and are expected to spend a significant amount of their time working across the organization.
+</ol>
+
+## Tech Organization Values
+
+Whether operating as an individual contributor, leader, or manager, our four key values define the how we achieve excellence in our work at Butler/Till:
+
+* **Values team success over individual success:** We are a team and not a collection of unaffiliated individuals. You may be part of several teams: your squad, your chapter, your guild(s), your tribe. Contributing to the success of each of these groups is more beneficial to the company, the product, and our customers than chasing your own success at the cost of your teams.
+* **Continuously improves (self and team):** Butler/Till believes in never settling for the status quo. We are always focused on learning and growing.
+Holds themselves and others accountable: As a company we value transparency and autonomy. These values must be coupled with accountability if we are to succeed. Taking responsibility for your own actions and the actions of the team and holding others to this standard is critical for us to be able to trust and work with each other.
+* **Thinks about business impact:** Butler/Till is a business. If we wish to keep working within this culture that we’ve built, we need to make sure that we are aligned with that business. Understanding how the choices you make affect the company is important for your growth as a professional.
+* **Mastery:** While the other characteristics talk about expectations and behaviors that are independent of your domain or role, mastery is specifically about becoming a better engineer, agile coach, technical product owner, QE, QA or TA.
+
+# Developer Role Ladders
 
 The BT developer advancement framework contains 4 different ladders:
 
@@ -47,9 +66,9 @@ Keep reading to better understand each level.
 
 ## Technology
 
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team
-2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+1. **Adopts**: At this step, you are actively learning and adopting the technology and tools defined by the team. This is the place where you are learning how best to apply internal tools and processes.
+2. **Specializes**: At this step, you are the go-to person for one or more technologies and actively taking initiative to learn new ones. This can take many forms, but best described as effort to be the in-house subject matter expert for a particular technology.
+3. **Evangelizes**: At this step, you are actively researching and creating proofs of concept and prototypes, and working to introduce these new technologies to the team
 4. **Masters**: has very deep knowledge about the whole technology stack of the system
 5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 
@@ -79,11 +98,13 @@ Keep reading to better understand each level.
 
 ## Influence
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+<ol>
+<li>Subsystem. At this step, you are focused primarily on being a useful contributor, gaining experience and learning how to be effective on their team and assigned systems. It is not expected that a member of technology would remain at this step during their entire time at butler/Till. At this step, your focus should be on growing so that you can support your team. This is the only step where there is an expectation that all members of technology should move toward the next step.
+<li>Team Step (squad). At this step, you are a resource for your chapter or your squad, either as a domain specialist for your team, or as a generalist/problem solver for them. You should be able to lead smaller efforts coordinating with other members of your team and drive them to completion and/or dig into tough problems and solve them independently taking in feedback from your peers and focusing on the outcome.
+<li>Multiple Team Step (tribe). At this step, you have an impact across squads or chapters. You are a resource for a larger group as a domain expert or generalist. You will lead cross-team (squad/tribe/chapter) efforts involving more people and drive them to completion and/or you will take on large challenges, working with diverse stakeholders in multiple teams to solve a problem that affects your larger organization.
+<li>Company Step. At this step, your focus is significantly on supporting company-wide initiatives. You will Road Manage projects that span tribes and be responsible for solving Tech-wide problems, and/or you will also represent Tech in company problems, and/or you will be a go-to person across the company to solve very complex problems
+<li>Community Step. At this step, your focus is significantly on supporting Tech-wide initiatives. You will Road Manage projects that span tribes and be responsible for solving Tech-wide problems, and/or you will also represent Tech in company and/or industry forums, and/or you will be a go-to person across the company to solve very complex problems
+</ol>
 
 # Other Pages
 
