@@ -70,15 +70,15 @@ Keep reading to better understand each level.
 
 ### Technology: *Application of tools or technology to solve business challenges*
 
-1. **Adopts**: At this step, you are actively learning and adopting the technology and tools defined by the team. This is the place where you are learning how best to apply internal tools and processes.
+1. **Adopts**: At this step, you are actively learning and adopting the technology and tools defined by the team. This is the place where you are learning how best to apply internal tools and processes. This is the only step where there is an expectation that all members of technology should move toward the next step
 2. **Specializes**: At this step, you are the go-to person for one or more technologies and actively taking initiative to learn new ones. This can take many forms, but best described as effort to be the in-house subject matter expert for a particular technology.
 3. **Evangelizes**: At this step, you are actively researching and creating proofs of concept and prototypes, and working to introduce these new technologies to the team
-4. **Masters**: has very deep knowledge about the whole technology stack of the system
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+4. **Masters**: You have thorough and very deep knowledge about the whole technology stack of the system, and are actively a reference for other employees knwledge needs surrouding it
+5. **Creates**: Whole-cloth builder; You design and create new technologies that are widely used either by internal or external teams. Packages published to Pypi, Nuget, etc.
 
 ### System: *A collection of tools, purpose built with standard operating procedures and performance metrics*
 
-1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
+1. **Enhances**: At this step, you successfully push new features and bug fixes to improve and extend a system
 2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -102,13 +102,11 @@ Keep reading to better understand each level.
  
 ### Influence: *Your scope of impact within the business and beyond*
 
-<ol>
-<li>Subsystem. At this step, you are focused primarily on being a useful contributor, gaining experience and learning how to be effective on their team and assigned systems. It is not expected that a member of technology would remain at this step during their entire time at butler/Till. At this step, your focus should be on growing so that you can support your team. This is the only step where there is an expectation that all members of technology should move toward the next step.</li>
-<li>Team Step (squad). At this step, you are a resource for your chapter or your squad, either as a domain specialist for your team, or as a generalist/problem solver for them. You should be able to lead smaller efforts coordinating with other members of your team and drive them to completion and/or dig into tough problems and solve them independently taking in feedback from your peers and focusing on the outcome.</li>
-<li>Multiple Team Step (tribe). At this step, you have an impact across squads or chapters. You are a resource for a larger group as a domain expert or generalist. You will lead cross-team (squad/tribe/chapter) efforts involving more people and drive them to completion and/or you will take on large challenges, working with diverse stakeholders in multiple teams to solve a problem that affects your larger organization.</li>
-<li>Company Step. At this step, your focus is significantly on supporting company-wide initiatives. You will Road Manage projects that span tribes and be responsible for solving Tech-wide problems, and/or you will also represent Tech in company problems, and/or you will be a go-to person across the company to solve very complex problems.</li>
-<li>Community Step. At this step, your focus is significantly on supporting Tech-wide initiatives. You will Road Manage projects that span tribes and be responsible for solving Tech-wide problems, and/or you will also represent Tech in company and/or industry forums, and/or you will be a go-to person across the company to solve very complex problems.</li>
-</ol>
+1. **Subsystem**: At this step, you are focused primarily on being a useful contributor, gaining experience and learning how to be effective on their team and assigned systems. It is not expected that a member of technology would remain at this step during their entire time at butler/Till. At this step, your focus should be on growing so that you can support your team. This is the only step where there is an expectation that all members of technology should move toward the next step.
+2. **Team Step (squad)**: At this step, you are a resource for your chapter or your squad, either as a domain specialist for your team, or as a generalist/problem solver for them. You should be able to lead smaller efforts coordinating with other members of your team and drive them to completion and/or dig into tough problems and solve them independently taking in feedback from your peers and focusing on the outcome.
+3. **Multiple Team Step (tribe)**: At this step, you have an impact across squads or chapters. You are a resource for a larger group as a domain expert or generalist. You will lead cross-team (squad/tribe/chapter) efforts involving more people and drive them to completion and/or you will take on large challenges, working with diverse stakeholders in multiple teams to solve a problem that affects your larger organization.
+4. **Company Step**: At this step, your focus is significantly on supporting company-wide initiatives. You will Road Manage projects that span tribes and be responsible for solving Tech-wide problems, and/or you will also represent Tech in company problems, and/or you will be a go-to person across the company to solve very complex problems.
+5. **Community Step**: At this step, your focus is significantly on supporting Tech-wide initiatives. You will Road Manage projects that span tribes and be responsible for solving Tech-wide problems, and/or you will also represent Tech in company and/or industry forums, and/or you will be a go-to person across the company to solve very complex problems.
 
 # Other Pages
 
