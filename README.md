@@ -1,7 +1,15 @@
 # Introduction
 
+Welcome fellow (or aspiring) Butler/Till technology professionals! As part of our commitment to advancing your skills, and ensuring the quality of the work we produce, we have created this document to provide general guidelines to support both. While this document is not meant to describe specific tasks required for promotion or advancement, it does provide developmental milestones that support your growth to achieve both:
 
-This framework allows engineering management at Butler/Till to establish a measurable ladder-like framework for engineer, lead, and manager staff development.
+In this document you will find the following:
+
+* Common definitions and nomenclature
+* Our guiding values and how we implement them
+* Our structure, roles, and responsibilities for each
+* Pathways to advancement for each role within the organization
+
+This document is meant to be an organic work; as business demands change, and our technology and talent landscape diversifies, this will be continually revisited to ensure alignment with the business, and to better support your development in technology.
 
 ## Tech Organization Values
 
