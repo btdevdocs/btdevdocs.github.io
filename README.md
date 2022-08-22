@@ -102,7 +102,7 @@ Keep reading to better understand each level.
 3. **Challenges**: challenges the team processes, looking for ways to improve them
 4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-
+ 
 ### Influence: *Your scope of impact within the business and beyond*
 
 <ol>
