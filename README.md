@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome fellow (or aspiring) Butler/Till technology professionals! As part of our commitment to advancing your skills, and ensuring the quality of the work we produce, we have created this document to provide general guidelines to support both. While this document is not meant to describe specific tasks required for promotion or advancement, it does provide developmental milestones that support your growth to achieve both:
+Welcome fellow (or aspiring) Butler/Till technology professionals! As part of our commitment to advancing your skills, and ensuring the quality of the work we produce, we have created this document to provide general guidelines to support both. While this document is not meant to describe specific tasks required for promotion or advancement, it does provide developmental milestones that support your growth to achieve both.
 
 In this document you will find the following:
 
